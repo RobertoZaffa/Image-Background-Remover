@@ -6,6 +6,7 @@ Automatic removal of images background
 - PIL 
 - threading
 - Requires u2net.onnx file in C:\Users\\"your_home_user_folder"\\.u2net\
+- u2net.onnx file is available at https://mastermind.altervista.org/wp-content/uploads/2022/12/u2net.onnx
 # Screenshot
 ![BackgroundRemoverScreenShot](https://user-images.githubusercontent.com/76481108/206939403-87c3fceb-ff47-4ac9-8f5c-a7f91ea599d0.PNG)
 
